@@ -45,7 +45,7 @@
 				<!-- 로고 아이콘 -->
 				<div class="col-sm-4">
 					<div class="logo pull-left">
-						<a href="/"><img
+						<a href="/admin_index"><img
 							src="${pageContext.request.contextPath}/resources/images/home/logo.png"
 							alt="" /></a>
 					</div>
